@@ -19,34 +19,17 @@ ol {
   padding: 20px 20px;
   text-align: center;
 }
-
-.left{
-   background-image: url("./bertv5.jpg");
-   background-position: left;
-}
-
-.right{
-  background-image: url("./nat.jpg");
-  background-position: right;
-}
-/*.frogs{
-  text-align: center;
-  color: green;
-  font-size: 15px;
-  position: 500px 60px;
-}
-*/
 header {
   background-color: black;
   padding: 200px 0;
-  background-image: url("./bertv4.jpg"), url("./nat.jpg");
+  background-image: url("bertv4.jpg"), url("nat.jpg");
   background-size: 550px 580px;
   background-position: top right, top left;
   background-repeat: no-repeat;
 }
 
 .section1{
-  background-image: url("./cuntv5.jpg");
+  background-image: url("cuntv5.jpg");
   background-size: 1000px 400px;
   background-position: right top;
   background-repeat: no-repeat;
