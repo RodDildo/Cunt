@@ -21,12 +21,12 @@ ol {
 }
 
 .left{
-   background-image: url("../img/bertv5.jpg");
+   background-image: url("bertv5.jpg");
    background-position: left;
 }
 
 .right{
-  background-image: url("../img/nat.jpg");
+  background-image: url("nat.jpg");
   background-position: right;
 }
 /*.frogs{
@@ -39,14 +39,14 @@ ol {
 header {
   background-color: black;
   padding: 200px 0;
-  background-image: url("../img/bertv4.jpg"), url("../img/nat.jpg");
+  background-image: url("bertv4.jpg"), url("nat.jpg");
   background-size: 550px 580px;
   background-position: top right, top left;
   background-repeat: no-repeat;
 }
 
 .section1{
-  background-image: url("../img/cuntv5.jpg");
+  background-image: url("cuntv5.jpg");
   background-size: 1000px 400px;
   background-position: right top;
   background-repeat: no-repeat;
